@@ -1,7 +1,15 @@
-let age = 19;
-let firstName = 'Jumanazar';
-let lastName = 'Yusupov';
+let age = 19; // Number
+let firstName = 'Jumanazar'; // String
+let lastName = 'Yusupov'; // String
+let check = true; // Boolean
+let a; // Undefined
+console.log(typeof age);
+console.log(typeof firstName);
+console.log(typeof lastName);
+console.log(typeof check);
+console.log(typeof a);
 
-console.log(firstName);
-console.log(lastName);
-console.log(age);
+/* lorem200 sdls
+sasas
+sasasaqwsdfffffffffff
+*/
